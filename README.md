@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This project is a Netflix clone web application developed by Your Name. The web app aims to replicate some of the features and functionalities of the popular streaming platform Netflix. It is built using various web technologies such as HTML, CSS, JavaScript, and possibly other frameworks or libraries.
+This project is a Netflix clone web application. The web app aims to replicate some of the features and functionalities of the popular streaming platform Netflix. It is built using various web technologies such as Reactjs, CSS and firebase
 
 # Live Demo
 
